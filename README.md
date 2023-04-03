@@ -1,4 +1,4 @@
-Hello World, I'm Marshall. Welcome to my GitHub!
+Hey, I'm Marshall. Welcome to my GitHub!
 
 Use this file to find my repositories that interest you most.
 The below repos are listed and linked in reverse-chronological order of when I completed the class or project.
